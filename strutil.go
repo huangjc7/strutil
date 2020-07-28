@@ -1,7 +1,6 @@
 package strutil
 
-import "fmt"
-
 func testFunc() string {
-	fmt.Println("黄健晨超级帅")
+	testVar := "黄健晨超级帅"
+	return testVar
 }
