@@ -1,6 +1,6 @@
 package strutil
 
-func testFunc() string {
+func TestFunc() string {
 	testVar := "黄健晨超级帅"
 	return testVar
 }
